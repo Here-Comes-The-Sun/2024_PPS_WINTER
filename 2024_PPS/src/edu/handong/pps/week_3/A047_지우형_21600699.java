@@ -50,14 +50,8 @@ public class A047_지우형_21600699 {
     		}
     		System.out.println();
     		if(isMoreThan) break;
-    		
-    		
-    	}
-    	
+    	}	
     	scanner.close();
-    	
-        
-        
     }
 }
 
